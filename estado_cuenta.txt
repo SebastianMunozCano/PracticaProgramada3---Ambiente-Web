@@ -1,0 +1,10 @@
+ID: 1 | Descripción: Compra de libros | Monto: $150
+ID: 2 | Descripción: Pago de matrícula | Monto: $500
+ID: 3 | Descripción: Compra de materiales | Monto: $75
+ID: 4 | Descripción: Pago de transporte | Monto: $30
+ID: 5 | Descripción: Compra de alimentos | Monto: $45
+ID: 6 | Descripción: Pago de servicios | Monto: $100
+ID: 7 | Descripción: Compra de ropa | Monto: $200
+ID: 8 | Descripción: Pago de seguro | Monto: $80
+ID: 9 | Descripción: Compra de tecnología | Monto: $300
+ID: 10 | Descripción: Pago de suscripción | Monto: $20
